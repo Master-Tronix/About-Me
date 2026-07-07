@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://capsule-render.vercel.app">
-    <img width="100%" height="200px" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Master_%20Tronix&textBg=false"/>
+    <img width="100%" height="200px" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Master-Tronix&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
   </a>
 </p>
 
