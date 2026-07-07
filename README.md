@@ -183,12 +183,12 @@ Continuously building hands-on projects to bridge the gap between theoretical le
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Master-Tronix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Tronix&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=A78BFA&fire=C9A9FF&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Master-Tronix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Master-Tronix&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=A78BFA&fire=C9A9FF&currStreakLabel=A78BFA" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Tronix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=10" width="60%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Master-Tronix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=10" width="60%" />
 
 </div>
 
@@ -201,6 +201,10 @@ Continuously building hands-on projects to bridge the gap between theoretical le
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Master-Tronix&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+<!-- If the above does not load, use this mirror instead:
+<img src="https://ryo-ma-github-profile-trophy.vercel.app/?username=Master-Tronix&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+-->
 
 </div>
 
