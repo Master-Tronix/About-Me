@@ -237,22 +237,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB_ANALYTICS-8B5CF6?style=flat-square&labelColor=1E1B4B&color=1E1B4B" alt="analytics"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master-Tronix&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Tronix&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="500em" src="https://streak-stats.demolab.com?user=Master-Tronix&theme=react&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=A78BFA" alt="Streak Stats"/>
-</p>
-
----
-
-<p align="center">
   <img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-8B5CF6?style=flat-square&labelColor=1E1B4B&color=1E1B4B" alt="activity"/>
 </p>
 
@@ -264,16 +248,6 @@
 
 ---
 
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Master-Tronix/Master-Tronix/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Master-Tronix/Master-Tronix/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Master-Tronix/Master-Tronix/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/CURRENT_FOCUS-8B5CF6?style=flat-square&labelColor=1E1B4B&color=1E1B4B" alt="focus"/>
@@ -315,8 +289,8 @@ open_to:
 </p>
 
 <p align="center">
-  <a href="mailto:master.tronix@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-master.tronix@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Gmail"/>
+  <a href="mailto:corrupted-devil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-corrupted-devil@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Master-Tronix">
