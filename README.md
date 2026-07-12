@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/Master-Tronix">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+with+code+and+AI.;Full+Stack+Developer+in+the+making.;Passionate+about+Machine+Learning.;Open+Source+Enthusiast." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+with+code+and+AI.;Full+Stack+Developer+in+the+making." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:master.tronix@gmail.com">
+  <a href="mailto:corrupted-devil@gmail.com">
     <img src="https://img.shields.io/badge/Email-master.tronix@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Email"/>
   </a>
   &nbsp;
@@ -161,17 +161,9 @@
 </p>
 
 <details>
-<summary><h3>🟣 AI-Powered Text Summarizer</h3></summary>
-<br>
-
-<p align="justify">
-  A web-based application that leverages natural language processing to condense long-form articles and documents into concise, meaningful summaries. Built with a clean, responsive front-end and a Python-powered back-end that handles text processing and summarization logic.
-</p>
-
-<p align="justify">
-  The project demonstrates practical integration of NLP concepts into a user-facing product. Users can paste or upload text, select summary length preferences, and receive structured output with key highlights. The interface is designed for readability and ease of use, reflecting a product-engineering approach to AI tooling.
-</p>
-
+<summary><h3>🟣 Termux-AI</h3></summary> <br>
+ <p align="justify"> A terminal-based AI assistant that brings powerful conversational intelligence directly to the Termux environment. Built with a lightweight command-line interface and powered by modern language models to deliver fast, accurate, and context-aware responses. </p>
+ <p align="justify"> The project demonstrates seamless integration of AI into a mobile Linux workflow. Users can chat with AI, generate and explain code, debug scripts, summarize text, and automate everyday terminal tasks without leaving the command line. Designed for speed, simplicity, and productivity, Termux-AI provides a modern AI experience tailored for developers, students, and command-line enthusiasts. </p> 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1E1B4B" alt="HTML5"/>
   &nbsp;
@@ -182,80 +174,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1E1B4B" alt="Python"/>
   &nbsp;
   <img src="https://img.shields.io/badge/NLTK-8B5CF6?style=flat-square&labelColor=1E1B4B" alt="NLTK"/>
-</p>
-
-</details>
-
-<details>
-<summary><h3>🟣 Responsive Portfolio Website</h3></summary>
-<br>
-
-<p align="justify">
-  A modern, fully responsive personal portfolio website designed to showcase projects, skills, and professional identity. Built from scratch using semantic HTML, advanced CSS layouts including Grid and Flexbox, and vanilla JavaScript for interactive elements such as smooth scrolling, theme toggling, and animated sections.
-</p>
-
-<p align="justify">
-  This project reflects a deep understanding of front-end fundamentals — accessibility best practices, mobile-first responsive design, performance optimization, and clean code architecture. Every component is modular and reusable, demonstrating engineering discipline even at the beginner level.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1E1B4B" alt="HTML5"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1E1B4B" alt="CSS3"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1E1B4B" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub Pages"/>
-</p>
-
-</details>
-
-<details>
-<summary><h3>🟣 Sentiment Analysis Dashboard</h3></summary>
-<br>
-
-<p align="justify">
-  An interactive dashboard that analyzes customer reviews and social media text to classify sentiment as positive, negative, or neutral. The project uses a trained classification model on the back-end and presents results through visually rich charts and real-time feedback on the front-end.
-</p>
-
-<p align="justify">
-  This project bridges the gap between data science and product development. It includes data preprocessing pipelines, model evaluation metrics visualization, and a polished UI that makes sentiment insights accessible to non-technical stakeholders — embodying the product-engineering mindset.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1E1B4B" alt="Python"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1E1B4B" alt="scikit-learn"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1E1B4B" alt="Pandas"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1E1B4B" alt="HTML5"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1E1B4B" alt="CSS3"/>
-</p>
-
-</details>
-
-<details>
-<summary><h3>🟣 JavaScript Task Manager Application</h3></summary>
-<br>
-
-<p align="justify">
-  A feature-rich task management application built entirely with vanilla JavaScript, HTML, and CSS. Supports task creation, editing, deletion, priority tagging, category filtering, and local storage persistence — ensuring data survives page refreshes without any back-end dependency.
-</p>
-
-<p align="justify">
-  This project demonstrates mastery of DOM manipulation, event-driven architecture, and state management patterns in pure JavaScript. The codebase follows a modular structure with separation of concerns, making it a strong showcase of front-end engineering fundamentals and clean code practices.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1E1B4B" alt="HTML5"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1E1B4B" alt="CSS3"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1E1B4B" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Local_Storage-8B5CF6?style=flat-square&labelColor=1E1B4B" alt="Local Storage"/>
 </p>
 
 </details>
@@ -335,18 +253,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB_TROPHIES-8B5CF6?style=flat-square&labelColor=1E1B4B&color=1E1B4B" alt="trophies"/>
-</p>
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Master-Tronix">
-    <img width="600" src="https://github-profile-trophy.vercel.app/?username=Master-Tronix&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
-  </a>
-</p>
-
----
-
-<p align="center">
   <img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-8B5CF6?style=flat-square&labelColor=1E1B4B&color=1E1B4B" alt="activity"/>
 </p>
 
@@ -358,9 +264,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CONTRIBUTION_SNAKE-8B5CF6?style=flat-square&labelColor=1E1B4B&color=1E1B4B" alt="snake"/>
-</p>
 
 <p align="center">
   <picture>
